@@ -1,4 +1,4 @@
-# ReconstructionOfImage-Using-DeepAutoEnccoders
+# ReconstructionOfImage-Using-DeepAutoEncoders
 I have reconstructed the image by compressing it to 6X. My dataset contains 64k anime images. Out of 64k images I randomly chose 10 images and constructed a seperate directory containing 200000(2lakh) Images. It is obvious that it feels crazy to generate 2 lakh images using 10 images but this is a part of data augumentation.My modeltook 12288 image input and reduced the output to just 2048 by retaining all the important features of the images.
 
 # Autoencoders
