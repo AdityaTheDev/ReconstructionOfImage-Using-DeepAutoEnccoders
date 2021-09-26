@@ -9,3 +9,6 @@ An autoencoder consists of three components:
 Encoder: An encoder is a feedforward, fully connected neural network that compresses the input into a latent space representation and encodes the input image as a compressed representation in a reduced dimension. The compressed image is the distorted version of the original image.
 Code: This part of the network contains the reduced representation of the input that is fed into the decoder.
 Decoder: Decoder is also a feedforward network like the encoder and has a similar structure to the encoder. This network is responsible for reconstructing the input back to the original dimensions from the code.
+
+# Output
+ ![Output](compression.png)
