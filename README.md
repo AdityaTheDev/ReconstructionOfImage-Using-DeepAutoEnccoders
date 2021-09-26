@@ -12,3 +12,6 @@ Decoder: Decoder is also a feedforward network like the encoder and has a simila
 
 # Output
  ![Output](compression.png)
+![Output](compression1.png)
+![Output](compression2.png)
+![Output](compression3.png)
